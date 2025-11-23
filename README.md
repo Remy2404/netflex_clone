@@ -1,4 +1,4 @@
-# Netflex Clone Landing Page
+# Netflix Clone Landing Page
 
 - **Name:** Phon Ramy
 - **Project:** Netflex Clone Landing Page
